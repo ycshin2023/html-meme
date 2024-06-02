@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  text-transform: uppercase;
+}
+
+.smiley {
+  border: 5px solid white;
+  width: 100%;
+}
+
+.overall {
+  margin-left: 25%;
+  width: 50%;
+}
